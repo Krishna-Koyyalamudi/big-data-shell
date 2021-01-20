@@ -8,7 +8,7 @@ Helpful commands
 ```Bash
 ```
 
-##Powershell
+## Powershell
 
 Helpful commands
 
